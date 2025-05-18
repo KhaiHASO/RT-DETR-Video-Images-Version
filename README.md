@@ -5,6 +5,7 @@
 **Điều kiện tiên quyết:**
 *   Bạn đã có sẵn mã nguồn của project này.
 *   Người dùng cần cài đặt Docker và Docker Compose trên máy.
+*   Tạo 2 folder input và output trong source gốc của dự án
 
 ## 1. Build Docker Image (Chỉ làm 1 lần đầu hoặc khi có cập nhật)
 
